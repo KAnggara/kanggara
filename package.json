@@ -1,0 +1,20 @@
+{
+  "name": "kanggara",
+  "version": "1.0.0",
+  "description": "KAnggara Solusindo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KAnggara/kanggara.git"
+  },
+  "keywords": [],
+  "author": "Call Vin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KAnggara/kanggara/issues"
+  },
+  "homepage": "https://github.com/KAnggara/kanggara#readme"
+}
